@@ -1,3 +1,3 @@
 #DEMONSTRATION
 
-Some descritpion fo the project 
+Some description for the project!
